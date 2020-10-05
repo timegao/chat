@@ -1,0 +1,33 @@
+C:\Users\Ethe\Desktop\chat base\chat\chat\bin\Debug\chat.exe.config
+C:\Users\Ethe\Desktop\chat base\chat\chat\bin\Debug\chat.exe
+C:\Users\Ethe\Desktop\chat base\chat\chat\bin\Debug\chat.pdb
+C:\Users\Ethe\Desktop\chat base\chat\chat\obj\Debug\chat.csprojAssemblyReference.cache
+C:\Users\Ethe\Desktop\chat base\chat\chat\obj\Debug\MainWindow.g.cs
+C:\Users\Ethe\Desktop\chat base\chat\chat\obj\Debug\App.g.cs
+C:\Users\Ethe\Desktop\chat base\chat\chat\obj\Debug\chat_MarkupCompile.cache
+C:\Users\Ethe\Desktop\chat base\chat\chat\obj\Debug\chat_MarkupCompile.lref
+C:\Users\Ethe\Desktop\chat base\chat\chat\obj\Debug\MainWindow.baml
+C:\Users\Ethe\Desktop\chat base\chat\chat\obj\Debug\chat.g.resources
+C:\Users\Ethe\Desktop\chat base\chat\chat\obj\Debug\chat.Properties.Resources.resources
+C:\Users\Ethe\Desktop\chat base\chat\chat\obj\Debug\chat.csproj.GenerateResource.cache
+C:\Users\Ethe\Desktop\chat base\chat\chat\obj\Debug\chat.csproj.CoreCompileInputs.cache
+C:\Users\Ethe\Desktop\chat base\chat\chat\obj\Debug\chat.exe
+C:\Users\Ethe\Desktop\chat base\chat\chat\obj\Debug\chat.pdb
+C:\Users\Ethe\source\repos\ChatAssignment\chat\bin\Debug\chat.exe.config
+C:\Users\Ethe\source\repos\ChatAssignment\chat\bin\Debug\chat.exe
+C:\Users\Ethe\source\repos\ChatAssignment\chat\bin\Debug\chat.pdb
+C:\Users\Ethe\source\repos\ChatAssignment\chat\obj\Debug\Chat.csprojAssemblyReference.cache
+C:\Users\Ethe\source\repos\ChatAssignment\chat\obj\Debug\MainWindow.g.cs
+C:\Users\Ethe\source\repos\ChatAssignment\chat\obj\Debug\App.g.cs
+C:\Users\Ethe\source\repos\ChatAssignment\chat\obj\Debug\chat_MarkupCompile.cache
+C:\Users\Ethe\source\repos\ChatAssignment\chat\obj\Debug\chat_MarkupCompile.lref
+C:\Users\Ethe\source\repos\ChatAssignment\chat\obj\Debug\MainWindow.baml
+C:\Users\Ethe\source\repos\ChatAssignment\chat\obj\Debug\chat.g.resources
+C:\Users\Ethe\source\repos\ChatAssignment\chat\obj\Debug\chat.Properties.Resources.resources
+C:\Users\Ethe\source\repos\ChatAssignment\chat\obj\Debug\Chat.csproj.GenerateResource.cache
+C:\Users\Ethe\source\repos\ChatAssignment\chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Ethe\source\repos\ChatAssignment\chat\obj\Debug\chat.exe
+C:\Users\Ethe\source\repos\ChatAssignment\chat\obj\Debug\chat.pdb
+C:\Users\Ethe\source\repos\ChatAssignment\chat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ethe\source\repos\ChatAssignment\chat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ethe\source\repos\ChatAssignment\chat\obj\Debug\Chat.csproj.CopyComplete
